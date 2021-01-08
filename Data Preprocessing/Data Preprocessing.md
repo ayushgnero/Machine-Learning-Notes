@@ -9,4 +9,5 @@ In any Machine Learning process, Data Preprocessing is that step in which the da
 * Numerical : Features whose values are continuous or integer-valued. They are represented by numbers and possess most of the properties of numbers. For instance, number of steps you walk in a day, or the speed at which you are driving your car at.
 
 ![](https://miro.medium.com/max/700/1*7nxgKIq5IWX50SSVhDVIXA.png)
+<br>
 Data-Preprocessing usually follows the same pattern in the way to how it approaches the problem
