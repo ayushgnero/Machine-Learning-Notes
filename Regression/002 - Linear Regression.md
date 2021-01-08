@@ -69,9 +69,8 @@ plt.ylabel('Salary')
 plt.show()
 ```
 
-![](output_12_0-kjomn0ua.png)
-
-
+![png](output_12_0.png)
+    
 
 
 ## Visualising the Test set results
@@ -87,7 +86,9 @@ plt.show()
 ```
 
 
-![](output_14_0-kjomn3rm.png)
+    
+![png](output_14_0.png)
+    
 
 
 ```python
